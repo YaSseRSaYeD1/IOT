@@ -4,8 +4,8 @@
 #include <BlynkSimpleEsp32.h>
 
 char auth[] = "F0-o_Vv0J1y9doJlcuGK32Eg6YOvxUhH";
-char ssid[] = "VoidTech.";
-char pass[] = "0096566006689";
+char ssid[] = "////////////.";
+char pass[] = "/////////////////////////";
 
 WiFiMulti WifiMulti;
 
